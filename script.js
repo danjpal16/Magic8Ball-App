@@ -23,42 +23,42 @@ function shakeMagic8Ball() {
         case 0:
             answer = "Yes";
             image = "yes.png" //change this!!;
-            color = "text-success";
+            color = "text-white";
             break;
         case 1:
             answer = "No";
             image = "no1.png" //change this!!;
-            color = "text-danger";
+            color = "text-white";
             break;
         case 2:
             answer = "Ask again later";
             image = "later.jpg" //change this!!;
-            color = "text-secondary";
+            color = "text-white";
             break;
         case 3:
             answer = "Maybe";
             image = "maybe.jpg";//change this!!;
-            color = "text-warning";
+            color = "text-white";
             break;
         case 4:
             answer = "Cannot predict now";
             image = "cannot.jpg";//change this!!;
-            color = "text-muted";
+            color = "text-white";
             break;
         case 5:
             answer = "Don't count on it";
             image = "dont.gif";//change this!!;
-            color = "text-danger";
+            color = "text-white";
             break;
         case 6:
             answer = "Most likely";
             image = "mostlikely.gif";//change this!!;
-            color = "text-success";
+            color = "text-white";
             break;
         case 7:
             answer = "Outlook not so good";
             image = "notsogood.jpg";//change this!!;
-            color = "text-danger";
+            color = "text-white";
             break;
         default:
             break;
